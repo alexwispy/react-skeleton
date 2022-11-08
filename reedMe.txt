@@ -1,0 +1,7 @@
+устанавливаем node.js
+
+открываем терминал в vsc
+сd 
+yarn install
+yarn add react-router-dom
+yarn start
